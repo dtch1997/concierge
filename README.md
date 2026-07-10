@@ -1,3 +1,10 @@
+> [!IMPORTANT]
+> **Moved into the [arsenal](https://github.com/dtch1997/arsenal) monorepo**
+> (2026-07-10) as [`packages/concierge`](https://github.com/dtch1997/arsenal/tree/main/packages/concierge),
+> history preserved. Install from there:
+> `pip install "git+https://github.com/dtch1997/arsenal#subdirectory=packages/concierge"`.
+> This repo is archived; development continues in arsenal.
+
 # concierge
 
 A worker pool over headless Claude sessions: **durable tasks in, gated
